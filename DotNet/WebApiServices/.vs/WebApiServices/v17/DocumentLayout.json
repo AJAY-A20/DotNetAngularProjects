@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|c:\\users\\administrator\\source\\repos\\webapiservices\\webapiservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|solutionrelative:webapiservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|c:\\users\\administrator\\source\\repos\\webapiservices\\webapiservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|solutionrelative:webapiservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|c:\\users\\administrator\\source\\repos\\webapiservices\\webapiservices\\services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|solutionrelative:webapiservices\\services\\ourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|c:\\users\\administrator\\source\\repos\\webapiservices\\webapiservices\\services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|solutionrelative:webapiservices\\services\\iourheroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|c:\\users\\administrator\\source\\repos\\webapiservices\\webapiservices\\models\\ourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|solutionrelative:webapiservices\\models\\ourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|c:\\users\\administrator\\source\\repos\\webapiservices\\webapiservices\\models\\addupdateourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|solutionrelative:webapiservices\\models\\addupdateourhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|c:\\users\\administrator\\source\\repos\\webapiservices\\webapiservices\\controllers\\ourherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB7BCC22-B1B9-47CB-B294-9003FF3F0DB4}|WebApiServices\\WebApiServices.csproj|solutionrelative:webapiservices\\controllers\\ourherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiServices\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\appsettings.json",
+              "RelativeToolTip": "WebApiServices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T05:14:29.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OurHeroService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\Services\\OurHeroService.cs",
+              "RelativeDocumentMoniker": "WebApiServices\\Services\\OurHeroService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\Services\\OurHeroService.cs",
+              "RelativeToolTip": "WebApiServices\\Services\\OurHeroService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwEMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:10:22.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddUpdateOurHero.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\Models\\AddUpdateOurHero.cs",
+              "RelativeDocumentMoniker": "WebApiServices\\Models\\AddUpdateOurHero.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\Models\\AddUpdateOurHero.cs",
+              "RelativeToolTip": "WebApiServices\\Models\\AddUpdateOurHero.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:07:53.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OurHeroController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\Controllers\\OurHeroController.cs",
+              "RelativeDocumentMoniker": "WebApiServices\\Controllers\\OurHeroController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\Controllers\\OurHeroController.cs",
+              "RelativeToolTip": "WebApiServices\\Controllers\\OurHeroController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAA3wFEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:06:24.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOurHeroService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\Services\\IOurHeroService.cs",
+              "RelativeDocumentMoniker": "WebApiServices\\Services\\IOurHeroService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\Services\\IOurHeroService.cs",
+              "RelativeToolTip": "WebApiServices\\Services\\IOurHeroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:09:33.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiServices\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\Program.cs",
+              "RelativeToolTip": "WebApiServices\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:15:53.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OurHero.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\Models\\OurHero.cs",
+              "RelativeDocumentMoniker": "WebApiServices\\Models\\OurHero.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiServices\\WebApiServices\\Models\\OurHero.cs",
+              "RelativeToolTip": "WebApiServices\\Models\\OurHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:07:06.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

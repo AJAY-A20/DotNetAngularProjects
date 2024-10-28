@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\14-10-2024\\ModelBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D214D4F7-FFC1-4CAC-9D4D-3CE16741E727}|ModelBinding\\ModelBinding.csproj|d:\\14-10-2024\\modelbinding\\modelbinding\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D214D4F7-FFC1-4CAC-9D4D-3CE16741E727}|ModelBinding\\ModelBinding.csproj|solutionrelative:modelbinding\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D214D4F7-FFC1-4CAC-9D4D-3CE16741E727}|ModelBinding\\ModelBinding.csproj|d:\\14-10-2024\\modelbinding\\modelbinding\\models\\usersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D214D4F7-FFC1-4CAC-9D4D-3CE16741E727}|ModelBinding\\ModelBinding.csproj|solutionrelative:modelbinding\\models\\usersearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D214D4F7-FFC1-4CAC-9D4D-3CE16741E727}|ModelBinding\\ModelBinding.csproj|d:\\14-10-2024\\modelbinding\\modelbinding\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D214D4F7-FFC1-4CAC-9D4D-3CE16741E727}|ModelBinding\\ModelBinding.csproj|solutionrelative:modelbinding\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D214D4F7-FFC1-4CAC-9D4D-3CE16741E727}|ModelBinding\\ModelBinding.csproj|d:\\14-10-2024\\modelbinding\\modelbinding\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D214D4F7-FFC1-4CAC-9D4D-3CE16741E727}|ModelBinding\\ModelBinding.csproj|solutionrelative:modelbinding\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D214D4F7-FFC1-4CAC-9D4D-3CE16741E727}|ModelBinding\\ModelBinding.csproj|d:\\14-10-2024\\modelbinding\\modelbinding\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D214D4F7-FFC1-4CAC-9D4D-3CE16741E727}|ModelBinding\\ModelBinding.csproj|solutionrelative:modelbinding\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D214D4F7-FFC1-4CAC-9D4D-3CE16741E727}|ModelBinding\\ModelBinding.csproj|d:\\14-10-2024\\modelbinding\\modelbinding\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D214D4F7-FFC1-4CAC-9D4D-3CE16741E727}|ModelBinding\\ModelBinding.csproj|solutionrelative:modelbinding\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserSearch.cs",
+              "DocumentMoniker": "D:\\14-10-2024\\ModelBinding\\ModelBinding\\Models\\UserSearch.cs",
+              "RelativeDocumentMoniker": "ModelBinding\\Models\\UserSearch.cs",
+              "ToolTip": "D:\\14-10-2024\\ModelBinding\\ModelBinding\\Models\\UserSearch.cs",
+              "RelativeToolTip": "ModelBinding\\Models\\UserSearch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:21:17.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "htmlpage.html",
+              "DocumentMoniker": "D:\\14-10-2024\\ModelBinding\\ModelBinding\\htmlpage.html",
+              "RelativeDocumentMoniker": "ModelBinding\\htmlpage.html",
+              "ToolTip": "D:\\14-10-2024\\ModelBinding\\ModelBinding\\htmlpage.html",
+              "RelativeToolTip": "ModelBinding\\htmlpage.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-14T07:28:54.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\14-10-2024\\ModelBinding\\ModelBinding\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ModelBinding\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\14-10-2024\\ModelBinding\\ModelBinding\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ModelBinding\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:15:06.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\14-10-2024\\ModelBinding\\ModelBinding\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "ModelBinding\\Models\\UserModel.cs",
+              "ToolTip": "D:\\14-10-2024\\ModelBinding\\ModelBinding\\Models\\UserModel.cs",
+              "RelativeToolTip": "ModelBinding\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:14:23.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\14-10-2024\\ModelBinding\\ModelBinding\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ModelBinding\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\14-10-2024\\ModelBinding\\ModelBinding\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ModelBinding\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:08:29.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\14-10-2024\\ModelBinding\\ModelBinding\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ModelBinding\\Models\\Product.cs",
+              "ToolTip": "D:\\14-10-2024\\ModelBinding\\ModelBinding\\Models\\Product.cs",
+              "RelativeToolTip": "ModelBinding\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:07:06.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\updatepaymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\updatepaymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\paymentstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\paymentstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\data\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\data\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\paymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\paymentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\paymentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\data\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\data\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\createorderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\createorderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\confirmorderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\confirmorderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\orderstatusresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\orderstatusresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\orderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\orderstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\orderitemdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\orderitemdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\productresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\customerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\customerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\data\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|c:\\users\\administrator\\source\\repos\\eccomercedemo\\eccomercedemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADF92B1-5921-47C9-8CFD-F71568D00A55}|EccomerceDemo\\EccomerceDemo.csproj|solutionrelative:eccomercedemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EccomerceDemo\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAIwGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:15:35.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Program.cs",
+              "RelativeToolTip": "EccomerceDemo\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:44:39.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdatePaymentResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\UpdatePaymentResponseDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\UpdatePaymentResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\UpdatePaymentResponseDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\UpdatePaymentResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:07:31.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentStatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\PaymentStatusDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\PaymentStatusDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\PaymentStatusDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\PaymentStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:07:03.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "EccomerceDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\appsettings.json*",
+              "RelativeToolTip": "EccomerceDemo\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T09:41:15.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "EccomerceDemo\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:16:31.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EccomerceDemo\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAIwG4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:14:45.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "EccomerceDemo\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAIwG4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:14:00.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Models\\APIResponse.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Models\\APIResponse.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Models\\APIResponse.cs",
+              "RelativeToolTip": "EccomerceDemo\\Models\\APIResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:09:41.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Data\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Data\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Data\\PaymentRepository.cs",
+              "RelativeToolTip": "EccomerceDemo\\Data\\PaymentRepository.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwF0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:07:58.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\PaymentResponseDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\PaymentResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\PaymentResponseDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\PaymentResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:06:24.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\PaymentDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\PaymentDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\PaymentDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\PaymentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:05:51.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Data\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Data\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Data\\OrderRepository.cs",
+              "RelativeToolTip": "EccomerceDemo\\Data\\OrderRepository.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAIwFkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:54:03.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateOrderResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\CreateOrderResponseDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\CreateOrderResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\CreateOrderResponseDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\CreateOrderResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:53:31.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConfirmOrderResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\ConfirmOrderResponseDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\ConfirmOrderResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\ConfirmOrderResponseDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\ConfirmOrderResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:52:58.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderStatusResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\OrderStatusResponseDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\OrderStatusResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\OrderStatusResponseDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\OrderStatusResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:52:23.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderStatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\OrderStatusDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\OrderStatusDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\OrderStatusDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\OrderStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:51:44.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:50:52.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderItemDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\OrderItemDetailsDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\OrderItemDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\OrderItemDetailsDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\OrderItemDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:50:21.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Data\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "EccomerceDemo\\Data\\ProductRepository.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAIwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:49:43.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\ProductResponseDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\ProductResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\ProductResponseDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\ProductResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:49:10.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:48:35.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Data\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Data\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Data\\CustomerRepository.cs",
+              "RelativeToolTip": "EccomerceDemo\\Data\\CustomerRepository.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAIwHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:47:46.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\CustomerResponseDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\CustomerResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\CustomerResponseDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\CustomerResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:47:03.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\DTO\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\DTO\\CustomerDTO.cs",
+              "RelativeToolTip": "EccomerceDemo\\DTO\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:46:33.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Data\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Data\\SqlConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Data\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "EccomerceDemo\\Data\\SqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:44:02.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Models\\Payment.cs",
+              "RelativeToolTip": "EccomerceDemo\\Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:40:46.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Models\\OrderItem.cs",
+              "RelativeToolTip": "EccomerceDemo\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:40:21.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Models\\Order.cs",
+              "RelativeToolTip": "EccomerceDemo\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:39:56.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Models\\Product.cs",
+              "RelativeToolTip": "EccomerceDemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:39:29.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "EccomerceDemo\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\EccomerceDemo\\Models\\Customer.cs",
+              "RelativeToolTip": "EccomerceDemo\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:38:45.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\EccomerceDemo\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-15T09:34:54.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

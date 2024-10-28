@@ -1,0 +1,6 @@
+@EccomerceDemo_HostAddress = http://localhost:5078
+
+GET {{EccomerceDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

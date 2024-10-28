@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WebApiDemo11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09209CAD-67FB-44AD-91A6-DA49EEF3B9A6}|WebApiDemo11\\WebApiDemo11.csproj|c:\\users\\administrator\\source\\repos\\webapidemo11\\webapidemo11\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09209CAD-67FB-44AD-91A6-DA49EEF3B9A6}|WebApiDemo11\\WebApiDemo11.csproj|solutionrelative:webapidemo11\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09209CAD-67FB-44AD-91A6-DA49EEF3B9A6}|WebApiDemo11\\WebApiDemo11.csproj|c:\\users\\administrator\\source\\repos\\webapidemo11\\webapidemo11\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09209CAD-67FB-44AD-91A6-DA49EEF3B9A6}|WebApiDemo11\\WebApiDemo11.csproj|solutionrelative:webapidemo11\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiDemo11\\WebApiDemo11\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApiDemo11\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiDemo11\\WebApiDemo11\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApiDemo11\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAswIoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:25:57.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiDemo11\\WebApiDemo11\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApiDemo11\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiDemo11\\WebApiDemo11\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApiDemo11\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:21:42.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

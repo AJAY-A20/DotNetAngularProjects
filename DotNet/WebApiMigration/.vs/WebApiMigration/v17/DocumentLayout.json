@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|c:\\users\\administrator\\source\\repos\\webapimigration\\webapimigration\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|solutionrelative:webapimigration\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|c:\\users\\administrator\\source\\repos\\webapimigration\\webapimigration\\migrations\\20241014035704_secondone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|solutionrelative:webapimigration\\migrations\\20241014035704_secondone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|c:\\users\\administrator\\source\\repos\\webapimigration\\webapimigration\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|solutionrelative:webapimigration\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|c:\\users\\administrator\\source\\repos\\webapimigration\\webapimigration\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|solutionrelative:webapimigration\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|c:\\users\\administrator\\source\\repos\\webapimigration\\webapimigration\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|solutionrelative:webapimigration\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|c:\\users\\administrator\\source\\repos\\webapimigration\\webapimigration\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|solutionrelative:webapimigration\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|c:\\users\\administrator\\source\\repos\\webapimigration\\webapimigration\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|solutionrelative:webapimigration\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|c:\\users\\administrator\\source\\repos\\webapimigration\\webapimigration\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|solutionrelative:webapimigration\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|c:\\users\\administrator\\source\\repos\\webapimigration\\webapimigration\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|solutionrelative:webapimigration\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|c:\\users\\administrator\\source\\repos\\webapimigration\\webapimigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|solutionrelative:webapimigration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|c:\\users\\administrator\\source\\repos\\webapimigration\\webapimigration\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|solutionrelative:webapimigration\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|c:\\users\\administrator\\source\\repos\\webapimigration\\webapimigration\\migrations\\20241012102809_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|solutionrelative:webapimigration\\migrations\\20241012102809_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|c:\\users\\administrator\\source\\repos\\webapimigration\\webapimigration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29B38B95-7570-4717-AEA6-4687681ADBAD}|WebApiMigration\\WebApiMigration.csproj|solutionrelative:webapimigration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241014035704_secondOne.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Migrations\\20241014035704_secondOne.cs",
+              "RelativeDocumentMoniker": "WebApiMigration\\Migrations\\20241014035704_secondOne.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Migrations\\20241014035704_secondOne.cs",
+              "RelativeToolTip": "WebApiMigration\\Migrations\\20241014035704_secondOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:57:04.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebApiMigration\\Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "WebApiMigration\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:30:36.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "WebApiMigration\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "WebApiMigration\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:57:55.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebApiMigration\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebApiMigration\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:28:07.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebApiMigration\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "WebApiMigration\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:30:11.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebApiMigration\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "WebApiMigration\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:55:41.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Data\\ProductContext.cs",
+              "RelativeDocumentMoniker": "WebApiMigration\\Data\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Data\\ProductContext.cs",
+              "RelativeToolTip": "WebApiMigration\\Data\\ProductContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:44:17.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApiMigration\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Models\\Category.cs",
+              "RelativeToolTip": "WebApiMigration\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:41:18.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApiMigration\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Models\\Product.cs",
+              "RelativeToolTip": "WebApiMigration\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:37:35.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiMigration\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Program.cs",
+              "RelativeToolTip": "WebApiMigration\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:53:00.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApiMigration\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApiMigration\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwHkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:03:15.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241012102809_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Migrations\\20241012102809_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApiMigration\\Migrations\\20241012102809_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\Migrations\\20241012102809_InitialCreate.cs",
+              "RelativeToolTip": "WebApiMigration\\Migrations\\20241012102809_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T10:28:09.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiMigration\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WebApiMigration\\WebApiMigration\\appsettings.json",
+              "RelativeToolTip": "WebApiMigration\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T09:51:42.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
